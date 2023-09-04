@@ -1,0 +1,14 @@
+C:\Users\aleja\Desktop\DAE Primer Exam\Primer Examen\Primer Examen\bin\Debug\net6.0\Primer Examen.exe
+C:\Users\aleja\Desktop\DAE Primer Exam\Primer Examen\Primer Examen\bin\Debug\net6.0\Primer Examen.deps.json
+C:\Users\aleja\Desktop\DAE Primer Exam\Primer Examen\Primer Examen\bin\Debug\net6.0\Primer Examen.runtimeconfig.json
+C:\Users\aleja\Desktop\DAE Primer Exam\Primer Examen\Primer Examen\bin\Debug\net6.0\Primer Examen.dll
+C:\Users\aleja\Desktop\DAE Primer Exam\Primer Examen\Primer Examen\bin\Debug\net6.0\Primer Examen.pdb
+C:\Users\aleja\Desktop\DAE Primer Exam\Primer Examen\Primer Examen\obj\Debug\net6.0\Primer Examen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja\Desktop\DAE Primer Exam\Primer Examen\Primer Examen\obj\Debug\net6.0\Primer Examen.AssemblyInfoInputs.cache
+C:\Users\aleja\Desktop\DAE Primer Exam\Primer Examen\Primer Examen\obj\Debug\net6.0\Primer Examen.AssemblyInfo.cs
+C:\Users\aleja\Desktop\DAE Primer Exam\Primer Examen\Primer Examen\obj\Debug\net6.0\Primer Examen.csproj.CoreCompileInputs.cache
+C:\Users\aleja\Desktop\DAE Primer Exam\Primer Examen\Primer Examen\obj\Debug\net6.0\Primer Examen.dll
+C:\Users\aleja\Desktop\DAE Primer Exam\Primer Examen\Primer Examen\obj\Debug\net6.0\refint\Primer Examen.dll
+C:\Users\aleja\Desktop\DAE Primer Exam\Primer Examen\Primer Examen\obj\Debug\net6.0\Primer Examen.pdb
+C:\Users\aleja\Desktop\DAE Primer Exam\Primer Examen\Primer Examen\obj\Debug\net6.0\Primer Examen.genruntimeconfig.cache
+C:\Users\aleja\Desktop\DAE Primer Exam\Primer Examen\Primer Examen\obj\Debug\net6.0\ref\Primer Examen.dll
